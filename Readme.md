@@ -8,4 +8,4 @@ step3 : Then Click On Show Respones Button And Copy Call Section Link And Import
         const data = await fetch(`http://api.weatherapi.com/v1/current.json?key=(dc86f2b39a004c1eb0463151250254)&q=${cityname1}&aqi=yes
         `);
 
-step4 : Run the Project On live server Extension
+step4 : Run the Project On live Server Extension
